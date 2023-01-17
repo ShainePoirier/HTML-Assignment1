@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- allows the webpage to fit different screen sizes -->
+    <title>Assignment 1 - Song Lyrics</title>
+    <meta name="description" content="The purpose of this document is to display the lyrics of a song to the user">
+    <meta name="robots" content="noindex, nofollow">
+</head>
+<body> <!-- this is where the title and lyrics will be displayed to the user -->
+    <h1>A Man Without Love, Lyrics</h1> <!-- Displays text to the user. Use it as the visible title of the web page. Can only use this once -->
+    <h2>Song by Engelbert Humperdinck</h2> <!-- sub-heading -->
+    <p>I can remember when we walked together. Sharing a love I thought would last forever.</p> <!-- <p> will print the line to the user. Multiple are used to create new lines -->
+    <p>Moonlight to show the way so we can follow. Waiting inside her eyes was my tomorrow.</p>
+    <p>Then something changed her mind her kisses told me. I had no loving arms to hold me.</p>
+    <p>Every day I wake up then I start to break up. Lonely is a man without love.</p>
+    <p>Every day I start out then I cry my heart out. Lonely is a man without love.</p>
+    <p>Every day I wake up then I start to break up knowing that it's cloudy above.</p>
+    <p>Every day I start out then I cry my heart out. Lonely is a man without love.</p>
+    <p>I cannot face this world that's falling down on me. So if you see my girl please send her home to me.</p>
+    <p>Tell her about my heart that's slowly dying. Say I can't stop myself from crying.</p>
+    <p>Every day I wake up then I start to break up. Lonely is a man without love.</p>
+    <p>Every day I start out then I cry my heart out. Lonely is a man without love.</p>
+    <p>Every day I wake up then I start to break up knowing that it's cloudy above.</p>
+    <p>Every day I start out then I cry my heart out. Lonely is a man without love.</p>
+    <p>Every day I wake up then I start to break up. Lonely is a man without love.</p>
+    <p>Every day I start out then I cry my heart out. Lonely is a man without love.</p>
+</body>
+</html>
